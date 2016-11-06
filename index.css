@@ -46,6 +46,7 @@ body
     font: 18pt 'Marck Script', cursive;
     background-color: #ffffe0;
     border: 2px solid #d3d3d3;
+    min-width: 600px;
 }
 
 .head
